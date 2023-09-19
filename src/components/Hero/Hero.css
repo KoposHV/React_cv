@@ -1,0 +1,33 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(152, 152, 245);
+   
+    }
+    .card {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    border-radius: 12px;
+    background-color: rgba(236, 241, 244, 0.241);
+    border: 50px ;
+    }
+    img {
+    width: 150px;
+    height: 210px;
+    margin: 20px;
+    border-radius: 20px;
+    
+    }
+    h2 {
+    color: black;
+    text-shadow: 2px 2px rgba(240, 248, 255, 0.241);
+    }
+    a {
+    color: #3223da;
+    text-decoration: none;
+    }
+    a:hover {
+        color: red;
+    }
