@@ -15,9 +15,10 @@ const App = () => {
   return (
   <div className="App">
    <Hero hero={hero} />
+   <About hero={hero}/>
 
 
-
+<div className="botones">
 <button
 className="custom-btn btn-4"
 onClick={() => setShowEducation(true)}
@@ -30,6 +31,7 @@ onClick={() => setShowEducation(false)}
 >
 Experience
 </button>
+</div>
 <div>
 {showEducation ? (
 <Education education={education} />

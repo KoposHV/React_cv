@@ -1,0 +1,12 @@
+.about {
+    border-radius: 10px;
+    display:inline-block;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 10px;
+
+    background-color: #dbabab;
+    -webkit-box-shadow: inset -4px 35px 131px 57px rgba(209,170,209,1);
+-moz-box-shadow: inset -4px 35px 131px 57px rgba(209,170,209,1);
+box-shadow: inset -4px 35px 131px 57px rgba(209,170,209,1);
+}

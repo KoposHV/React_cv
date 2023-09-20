@@ -2,9 +2,9 @@ import './About.css';
 
 
 
-const About = () => {
+const About = ({hero}) => {
   return (
-    <div>
+    <div className="about" >
      {hero.aboutMe.map((item) => (
       <p>{item.info}</p>
      ))}

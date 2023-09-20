@@ -1,0 +1,11 @@
+.education {
+    background-color: rgb(219, 171, 171);
+    display:inline-block;
+    border-radius: 10px;
+    padding-left: 250px;
+    padding-right: 250px;
+    -webkit-box-shadow: inset -4px 35px 131px 57px rgba(209,170,209,1);
+-moz-box-shadow: inset -4px 35px 131px 57px rgba(209,170,209,1);
+box-shadow: inset -4px 35px 131px 57px rgba(209,170,209,1);
+
+}

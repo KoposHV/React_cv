@@ -3,7 +3,7 @@ import './Education.css';
 
 const Education = ({ education}) => {
   return (
-    <div>
+    <div className="educacion">
     <div className="education card">
     {education.map((item) => {
     return (

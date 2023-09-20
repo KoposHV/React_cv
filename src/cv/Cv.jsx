@@ -9,16 +9,16 @@ export const CV = {
     gitHub: "https://github.com/KoposHV",
     aboutMe: [
     {
-    info: "Tengo 25 años cotizados en mantenimento industrial(electricidad, climatizacón, auómatas programables, sistemas de control, etc..). Los 5 últimos años como Responsable de Mantenimiento en FCC, en las instalaciones logísticas de RENAULT ESPAÑA ,teniendo a mi cargo 5 personas. ",
+    info: "-Tengo 25 años cotizados en mantenimento industrial(electricidad, climatizacón, auómatas programables, sistemas de control, etc..). Los 5 últimos años como Responsable de Mantenimiento en FCC, en las instalaciones logísticas de RENAULT ESPAÑA ,teniendo a mi cargo 5 personas. ",
     },
     {
-    info: "Persona emprendedora, responsable, polivalente y acostumbrado a trabajar en equipo.",
+    info: "-Persona emprendedora, responsable, polivalente y acostumbrado a trabajar en equipo.",
     },
     {
-    info: "Certificado de Profesionalidad de Nivel 3 en `Seguridad Informática de 580 H`. , y prácticas reales realizadas en empresa IGEO ERP CLOUD PLATFORM .",
+    info: "-Certificado de Profesionalidad de Nivel 3 en `Seguridad Informática de 580 H`. , y prácticas reales realizadas en empresa IGEO ERP CLOUD PLATFORM .",
     },
     {
-    info: "Actualmente estudiante de Desarrollo Web FullStack",
+    info: "-Actualmente estudiante de Desarrollo Web FullStack",
     },
 ],
 },
